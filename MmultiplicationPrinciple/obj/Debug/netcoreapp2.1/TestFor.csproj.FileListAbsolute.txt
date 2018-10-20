@@ -1,0 +1,11 @@
+C:\Users\NopForest\source\repos\TestFor\TestFor\bin\Debug\netcoreapp2.1\TestFor.deps.json
+C:\Users\NopForest\source\repos\TestFor\TestFor\bin\Debug\netcoreapp2.1\TestFor.runtimeconfig.json
+C:\Users\NopForest\source\repos\TestFor\TestFor\bin\Debug\netcoreapp2.1\TestFor.runtimeconfig.dev.json
+C:\Users\NopForest\source\repos\TestFor\TestFor\bin\Debug\netcoreapp2.1\TestFor.dll
+C:\Users\NopForest\source\repos\TestFor\TestFor\bin\Debug\netcoreapp2.1\TestFor.pdb
+C:\Users\NopForest\source\repos\TestFor\TestFor\obj\Debug\netcoreapp2.1\TestFor.csprojAssemblyReference.cache
+C:\Users\NopForest\source\repos\TestFor\TestFor\obj\Debug\netcoreapp2.1\TestFor.csproj.CoreCompileInputs.cache
+C:\Users\NopForest\source\repos\TestFor\TestFor\obj\Debug\netcoreapp2.1\TestFor.AssemblyInfoInputs.cache
+C:\Users\NopForest\source\repos\TestFor\TestFor\obj\Debug\netcoreapp2.1\TestFor.AssemblyInfo.cs
+C:\Users\NopForest\source\repos\TestFor\TestFor\obj\Debug\netcoreapp2.1\TestFor.dll
+C:\Users\NopForest\source\repos\TestFor\TestFor\obj\Debug\netcoreapp2.1\TestFor.pdb

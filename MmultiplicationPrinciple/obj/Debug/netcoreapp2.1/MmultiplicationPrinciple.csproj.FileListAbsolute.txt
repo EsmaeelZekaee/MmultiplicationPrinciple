@@ -1,0 +1,11 @@
+C:\Users\NopForest\source\repos\TestFor\MmultiplicationPrinciple\bin\Debug\netcoreapp2.1\MmultiplicationPrinciple.deps.json
+C:\Users\NopForest\source\repos\TestFor\MmultiplicationPrinciple\bin\Debug\netcoreapp2.1\MmultiplicationPrinciple.runtimeconfig.json
+C:\Users\NopForest\source\repos\TestFor\MmultiplicationPrinciple\bin\Debug\netcoreapp2.1\MmultiplicationPrinciple.runtimeconfig.dev.json
+C:\Users\NopForest\source\repos\TestFor\MmultiplicationPrinciple\bin\Debug\netcoreapp2.1\MmultiplicationPrinciple.dll
+C:\Users\NopForest\source\repos\TestFor\MmultiplicationPrinciple\bin\Debug\netcoreapp2.1\MmultiplicationPrinciple.pdb
+C:\Users\NopForest\source\repos\TestFor\MmultiplicationPrinciple\obj\Debug\netcoreapp2.1\MmultiplicationPrinciple.csprojAssemblyReference.cache
+C:\Users\NopForest\source\repos\TestFor\MmultiplicationPrinciple\obj\Debug\netcoreapp2.1\MmultiplicationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\NopForest\source\repos\TestFor\MmultiplicationPrinciple\obj\Debug\netcoreapp2.1\MmultiplicationPrinciple.AssemblyInfoInputs.cache
+C:\Users\NopForest\source\repos\TestFor\MmultiplicationPrinciple\obj\Debug\netcoreapp2.1\MmultiplicationPrinciple.AssemblyInfo.cs
+C:\Users\NopForest\source\repos\TestFor\MmultiplicationPrinciple\obj\Debug\netcoreapp2.1\MmultiplicationPrinciple.dll
+C:\Users\NopForest\source\repos\TestFor\MmultiplicationPrinciple\obj\Debug\netcoreapp2.1\MmultiplicationPrinciple.pdb
